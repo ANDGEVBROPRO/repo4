@@ -1,0 +1,8 @@
+to create new branch(ветвь) we are using "git branch 'branch name'"
+
+to switch between branches we use "git checkout 'branch name'"
+
+to merge(соединять) benches we are using "git merge 'branch name'" 
+the info in 'bench name' will go to branch we are currently rn.
+
+
